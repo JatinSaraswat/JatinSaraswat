@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 👋 About Me
 
 Hi, I'm **Jatin Saraswat** 👨‍💻  
 A B.Tech 3rd-year student passionate about **full-stack development** and **problem solving**.
