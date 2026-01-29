@@ -1,5 +1,16 @@
 # 💫 About Me:
-I am currently working web dev projects.<br>I am an engineering student.<br>I am currently in my 3rd year. 
+## 👋 About Me
+
+Hi, I'm **Jatin Saraswat** 👨‍💻  
+A B.Tech 3rd-year student passionate about **full-stack development** and **problem solving**.
+
+🚀 **Tech Stack:**  
+- Frontend: **React.js**  
+- Backend: **Node.js, Express.js**  
+- Currently strengthening my foundation in **Data Structures & Algorithms**
+
+📚 I enjoy building real-world projects and continuously improving my coding skills.
+
 
 
 ## 🌐 Socials:
